@@ -24,7 +24,7 @@
 1744710540 c:\program files\codeblocks\mingw\include\gl\glu.h
 	<GL/gl.h>
 
-1746186164 source:c:\opengl codes\try_try\game1_tetris.cpp
+1746186625 source:c:\opengl codes\try_try\game1_tetris.cpp
 	<GL/glut.h>
 	<stdlib.h>
 	<time.h>
