@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1746186358 source:c:\opengl codes\try_try\main.cpp
+	<GL/glut.h>
+	<iostream>
+
+1744710540 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1744710540 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1744710540 c:\program files\codeblocks\mingw\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1744710540 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
+1746186164 source:c:\opengl codes\try_try\game1_tetris.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<time.h>
+	<cstdio>
+	<vector>
+
+1746186308 source:c:\opengl codes\try_try\game2_shooter.cpp
+	<GL/glut.h>
+	<cmath>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+
+1746186289 source:c:\opengl codes\try_try\game3_mines.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
